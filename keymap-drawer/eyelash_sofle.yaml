@@ -3,10 +3,10 @@ layers:
   LAYER0:
   - $$mdi:keyboard-esc$$
   - {t: '1', s: '!'}
-  - {t: '2', s: '@'}
-  - {t: '3', s: '#'}
-  - {t: '4', s: $}
-  - {t: '5', s: '%'}
+  - '1'
+  - '2'
+  - '3'
+  - '4'
   - $$mdi:pan-up$$
   - {t: '6', s: ^}
   - {t: '7', s: '&'}
@@ -39,7 +39,7 @@ layers:
   - KP 5
   - KP 6
   - {t: ;, s: ':'}
-  - {t: '''', s: '"'}
+  - Ctl+F10
   - B
   - $$mdi:apple-keyboard-control$$
   - Z
@@ -51,12 +51,12 @@ layers:
   - KP 1
   - KP 2
   - KP 3
-  - Ctl+F10
   - F12
+  - Alt+Ctl+F11
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-option$$
+  - F1
   - M
-  - layer1
   - C
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
