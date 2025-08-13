@@ -15,7 +15,7 @@ layers:
   - KP SUBTRACT
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
-  - $$mdi:keyboard-tab$$
+  - '2'
   - Q
   - W
   - E
@@ -44,7 +44,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - Z
   - X
-  - V
+  - C
   - G
   - $$mdi:pan-right$$
   - N
@@ -56,8 +56,8 @@ layers:
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-option$$
   - F1
+  - N
   - M
-  - C
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
