@@ -4,7 +4,7 @@ layers:
   - $$mdi:keyboard-esc$$
   - {t: '1', s: '!'}
   - '1'
-  - '2'
+  - Y
   - '3'
   - '4'
   - $$mdi:pan-up$$
