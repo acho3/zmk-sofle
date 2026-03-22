@@ -2,8 +2,8 @@ layout: {zmk_keyboard: eyelash_sofle}
 layers:
   LAYER0:
   - $$mdi:keyboard-esc$$
-  - {t: '1', s: '!'}
-  - '1'
+  - G
+  - H
   - Y
   - '3'
   - '4'
@@ -15,8 +15,8 @@ layers:
   - KP SUBTRACT
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-tab$$
+  - '1'
   - '2'
-  - Q
   - W
   - E
   - R
